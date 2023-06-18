@@ -1,0 +1,1 @@
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/g26ehc6ywx5id9od/branch/master?svg=true)](https://ci.appveyor.com/project/AleksandrMuzhev/dz-apici-2-1/branch/master)
